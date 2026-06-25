@@ -28,6 +28,8 @@ jobs:
         with:
           node-version: 22
           package-manager: bun@latest
+        env:
+          BASE_PATH: /cravingcorn.com
 
   deploy:
     needs: build
