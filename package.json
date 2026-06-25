@@ -1,0 +1,26 @@
+{
+  "name": "cravingcorn.com",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "CravingCorn - A delicious corn-themed website",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a1kundu/cravingcorn.com.git"
+  },
+  "keywords": [],
+  "author": "Arijit Kundu <arikundu9@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a1kundu/cravingcorn.com/issues"
+  },
+  "homepage": "https://github.com/a1kundu/cravingcorn.com#readme",
+  "dependencies": {
+    "astro": "7.0.3"
+  }
+}
